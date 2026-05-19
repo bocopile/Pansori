@@ -1,0 +1,10 @@
+# AI agent local state (not tracked)
+.claude/
+.orchestrator/
+.worktrees/
+
+# Env
+.env
+.env.local
+
+.idea/**
